@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.test{
+    width: 500px;
+    background-color: lightgray;
+    padding: 25px;
+    margin: 150px auto;
+
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px black;
+}
